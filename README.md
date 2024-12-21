@@ -28,10 +28,8 @@ The solution involves building a .NET 8 REST API for a Todo application with the
 ### Enterprise Readiness
 
 - **Scalability**: The application can be deployed using Docker and Kubernetes for scalability. It uses SQL Server for data storage.
-- **Security**: Authentication and authorization are implemented using JWT tokens. HTTPS is enforced for secure communication.
 - **Maintainability**: The application follows SOLID principles and clean architecture. Dependency injection is used for better testability and maintainability.
 - **Reliability**: Logging and monitoring are implemented using Serilog and Application Insights. Retry policies and circuit breakers are used with Polly.
-- **Testing**: Unit tests and integration tests are written using xUnit to ensure the application works as expected.
 
 ## Instructions for Running and Testing
 
