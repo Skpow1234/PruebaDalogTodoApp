@@ -1,0 +1,96 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Auto-generated files
+*.vs/
+*.dbmdl
+*.dbproj.schemaview
+*.pdb
+*.obj
+*.log
+*.exe
+*.dll
+*.cache
+*.config
+*.csproj.user
+*.diff
+*.patch
+*.orig
+*.rej
+*.so
+*.dll
+*.exe
+*.pyc
+*.pyo
+*.pid
+*.seed
+*.pid.lock
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework
+Migrations/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# IDEs and editors
+.vscode/
+.idea/
+.vs/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# DotNet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Web
+node_modules/
+bower_components/
+
+# Publish Output
+wwwroot/
+*.publish.xml
+*.pubxml
+*.pubxml.user
+
+# Office Temp Files
+~$*
+~*.tmp
+*.tmp
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# NPM Packages
+node_modules/
